@@ -10,7 +10,7 @@ setup(name='lcfcn',
       packages=['lcfcn'],
       zip_safe=False,
       install_requires=[
-        'tqdm>=0.0'
+        'tqdm>=0.0',
         'numpy>=0.0',
         'pandas>=0.0',
         'Pillow>=0.0',
@@ -19,5 +19,5 @@ setup(name='lcfcn',
         'scipy>=0.0',
         'sklearn>=0.0',
         'torch>=0.0',
-        'torchvision>=0.0',
+        'torchvision>=0.0'
       ]),
